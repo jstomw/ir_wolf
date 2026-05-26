@@ -1,0 +1,6 @@
+Threshold=100
+Multiplier=60
+ShowHUD=0
+DeviceID=/dev/video2
+HitboxRadius=44
+RabbitOrbit=110
